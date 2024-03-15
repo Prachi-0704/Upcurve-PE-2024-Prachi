@@ -1,4 +1,4 @@
-USE INFO
+USE HR_DB
 -- ANSWER 1 --
 SELECT last_name, E.department_id, department_name
 FROM EMPLOYEES E 
